@@ -1,0 +1,113 @@
+Populous Spell Editor Version 1.3
+
+Version 1.3
+
+1. Addition of script file names
+2. Correct tree picture now shown for style 6
+3. Pressing Help now opens this file  
+
+Version 1.2
+
+1. Addition of allies and tribes available in level
+2. Some corrections to landscape pictures displayed
+
+Version 1.1
+
+Addition of Tree Styles
+
+Version 1.0
+
+First Release
+
+Use for editing the spells available, huts available, landscape style, god mode and fog mode of populous levels. 
+
+To use:
+
+1. Make a backup copy of your populous LEVELS directory, since the editor will change the level header files LEVL????.HDR.
+2. Run SpellEditor.exe
+3. File Load the level you want to edit. For a list of filenames vs Populous level names see below.
+4. The current properties are displayed
+5. Click on the buttons to make changes
+6. File Save the level
+7. Play
+
+
+Notes:
+
+1. You can make changes while populous is running, but these changes will not be effective until the hdr file is reloaded, either by loading a saved game or returning to the main menu or planet screen. 
+2. You can click on guest spells, but they are not saved.
+3. Ghost army is for multi-player games only.
+4. Click on the last colour tribe you want to be available in the level e.g. Click on Matak - Tribes available to level if you want a two player level with Blue & Green. This will show all four tribes, but whether they actually appear depends on their inclusion in the levl????.dat file. However, if you set Tribes available to Chumara (Yellow), then the Matak will not appear even if they have been coded into the levl????.dat file.    
+5. Script files - this corresponds to the last three digits in the name of the script (cpscr???.dat) and attribute (cpatr???.dat) files for the computer players in single player games. The number cannot exceed 255. The easiest way to edit them is to delete the existing numbers and retype.
+
+Level Names:
+
+The Journey Begins		Levl2001	Single player
+Night Falls			Levl2002	Single player
+Crisis of Faith		Levl2003	Single player
+Combined Forces		Levl2004	Single player
+Death from Above		Levl2005	Single player
+Building Bridges		Levl2006	Single player
+Unseen Enemy			Levl2007	Single player
+Continental Divide		Levl2008	Single player
+Fire in the Mist		Levl2009	Single player
+From the Depths		Levl2010	Single player
+Treacherous Souls		Levl2011	Single player
+An Easy Target		Levl2012	Single player
+Aerial Bombardment		Levl2013	Single player
+Attacked from all Sides	Levl2014	Single player
+Incarcerated			Levl2015	Single player
+Bloodlust			Levl2016	Single player
+Middle Ground		Levl2017	Single player
+Headhunter			Levl2018	Single player
+Unlikely Allies		Levl2019	Single player
+Archipelago			Levl2020	Single player
+Fractured Earth		Levl2021	Single player
+Solo				Levl2022	Single player
+Inferno			Levl2023	Single player
+Journey's End		Levl2024	Single player
+The Beginning		Levl2025	Single player
+Tutorial			Levl2079	Single player
+Aftermath			Levl2060	Single player (UW)
+Lava Flow			Levl2056	Single player (UW)
+Soul Survivor		Levl2063	Single player (UW)
+World Wide Web		Levl2062	Single player (UW)
+Human Shield			Levl2057	Single player (UW)
+No Man’s Land		Levl2058	Single player (UW)
+Protection Racket		Levl2078	Single player (UW)
+Prisons			Levl2072	Single player (UW)
+Overshadowed			Levl2074	Single player (UW)
+Fortress			Levl2061	Single player (UW)
+L’Assassine			Levl2059	Single player (UW)
+Natural Disaster		Levl2076	Single player (UW)
+Hills Devide Us		Levl2080	Multiplayer
+Eye Of The Storm		Levl2082	Multiplayer
+Two Crabs			Levl2083	Multiplayer
+Skirmish			Levl2084	Multiplayer
+All Around The World	Levl2094	Multiplayer
+Barricade			Levl2085	Multiplayer (UW)
+Battlements			Levl2086	Multiplayer (UW)
+Cog				Levl2095	Multiplayer (UW)
+Sliced Beetle		Levl2096	Multiplayer (UW)
+Two Way			Levl2097	Multiplayer (UW)
+Multiple Choice		Levl2099	Multiplayer (UW)
+Linked Isles			Levl2100	Multiplayer
+Skirmish			Levl2109	Multiplayer
+Three Way			Levl2110	Multiplayer
+Avenging-Angles		Levl2111	Multiplayer
+Sandy Castles		Levl2112	Multiplayer
+Canyon				Levl2102	Multiplayer (UW)
+Angels				Levl2101	Multiplayer (UW)
+Three Crabs			Levl2119	Multiplayer (UW)
+Two On Two			Levl2120	Multiplayer
+Craters			Levl2127	Multiplayer
+Dead Sea			Levl2128	Multiplayer
+Face Off			Levl2131	Multiplayer
+Pressure Point		Levl2133	Multiplayer
+Cog				Levl2124	Multiplayer (UW)
+Clockwise			Levl2138	Multiplayer (UW)
+Walls				Levl2139	Multiplayer (UW)
+
+
+Ted John 2004 (ted@brambles.org)
+  
