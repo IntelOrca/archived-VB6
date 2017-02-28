@@ -1,0 +1,259 @@
+/Palette Descriptions for Populous Palette Editor
+/Format of lines is "999 Description" where 999 is the palette index (0 to 255) followed by a space and a description. Lines of incorrect format are ignored
+
+000 Landscape and water texture
+001 Landscape and water texture
+002 Landscape and water texture
+003 Landscape and water texture
+004 Landscape and water texture
+005 Landscape and water texture
+006 Landscape and water texture
+007 Landscape and water texture
+008 Landscape and water texture
+009 Landscape and water texture
+010 Landscape and water texture
+011 Landscape and water texture
+012 Landscape and water texture
+013 Landscape and water texture
+014 Landscape and water texture
+015 Landscape and water texture
+016 Landscape and water texture
+017 Landscape and water texture
+018 Landscape and water texture
+019 Landscape and water texture
+020 Landscape and water texture
+021 Landscape and water texture
+022 Landscape and water texture
+023 Landscape and water texture
+024 Landscape and water texture
+025 Landscape and water texture
+026 Landscape and water texture
+027 Landscape and water texture
+028 Landscape and water texture
+029 Landscape and water texture
+030 Landscape and water texture
+031 Landscape and water texture
+032 Landscape and water texture
+033 Landscape and water texture
+034 Landscape and water texture
+035 Landscape and water texture
+036 Landscape and water texture
+037 Landscape and water texture
+038 Landscape and water texture
+039 Landscape and water texture
+040 Landscape and water texture
+041 Landscape and water texture
+042 Landscape and water texture
+043 Landscape and water texture
+044 Landscape and water texture
+045 Landscape and water texture
+046 Landscape and water texture
+047 Landscape and water texture
+048 Landscape and water texture
+049 Landscape and water texture
+050 Landscape and water texture
+051 Landscape and water texture
+052 Landscape and water texture
+053 Landscape and water texture
+054 Landscape and water texture
+055 Landscape and water texture
+056 Landscape and water texture
+057 Landscape and water texture
+058 Landscape and water texture
+059 Landscape and water texture
+060 Landscape and water texture
+061 Landscape and water texture
+062 Landscape and water texture
+063 Landscape and water texture
+064 Landscape and water texture
+065 Landscape and water texture
+066 Landscape and water texture
+067 Landscape and water texture
+068 Landscape and water texture
+069 Landscape and water texture
+070 Landscape and water texture
+071 Landscape and water texture
+072 Landscape and water texture
+073 Landscape and water texture
+074 Landscape and water texture
+075 Landscape and water texture
+076 Landscape and water texture
+077 Landscape and water texture
+078 Landscape and water texture
+079 Landscape and water texture
+080 Landscape and water texture
+081 Landscape and water texture
+082 Landscape and water texture
+083 Landscape and water texture
+084 Landscape and water texture
+085 Landscape and water texture
+086 Landscape and water texture
+087 Landscape and water texture
+088 Landscape and water texture
+089 Landscape and water texture
+090 Landscape and water texture
+091 Landscape and water texture
+092 Landscape and water texture
+093 Landscape and water texture
+094 Landscape and water texture
+095 Landscape and water texture
+096 Landscape and water texture
+097 Landscape and water texture
+098 Landscape and water texture
+099 Landscape and water texture
+100 Landscape and water texture
+101 Landscape and water texture
+102 Landscape and water texture
+103 Landscape and water texture
+104 Landscape and water texture
+105 Landscape and water texture
+106 Landscape and water texture
+107 Landscape and water texture
+108 Landscape and water texture
+109 Landscape and water texture
+110 Landscape and water texture
+111 Landscape and water texture
+112 Landscape and water texture
+113 Landscape and water texture
+114 Landscape and water texture
+115 Landscape and water texture
+116 Landscape and water texture
+117 Landscape and water texture
+118 Landscape and water texture
+119 Landscape and water texture
+120 Landscape and water texture
+121 Landscape and water texture
+122 Landscape and water texture
+123 Landscape and water texture
+124 Landscape and water texture
+125 Landscape and water texture
+126 Landscape and water texture
+127 Landscape and water texture
+128 VoK spells
+129 Smoke, Snow, hut plan, flame centre, swamp mist, menu text, sparks, lightning cloud, convert ring, tornado, mixed colour of magic shield
+130 Mana strength bars, top of help/encyclopaedia text, VoK spells
+131 Pointer and panel shadowing, volcano/earthquake aftercolours 
+132 Pointer and panel shadowing, volcano/earthquake aftercolours 
+133 Pointer and panel shadowing, volcano/earthquake aftercolours 
+134 Pointer and panel shadowing, volcano/earthquake aftercolours 
+135 Pointer and panel shadowing, volcano/earthquake aftercolours 
+136 Pointer and panel shadowing, volcano/earthquake aftercolours 
+137 Pointer and panel shadowing, volcano/earthquake aftercolours 
+138 Flame highlights
+139 Flame highlights
+140 Pointer, hut pop-up occupants, fireball after effects
+141 Pointer, hut pop-up occupants, fireball after effects 
+142 Pointer, hut pop-up occupants, fireball after effects
+143 Pointer, hut pop-up occupants, fireball after effects 
+144 Pointer, hut pop-up occupants, fireball after effects 
+145 Pointer, hut pop-up occupants, fireball after effects 
+146 Pointer, hut pop-up occupants, fireball after effects 
+147 Pointer, hut pop-up occupants, fireball after effects 
+148 Panel b/grnd, fire (hut/VOK torches, fireballs, blast, lava), guard tower light, Chumara roof trim
+149 Panel b/grnd, fire (hut/VOK torches, fireballs, blast, lava), guard tower light, Chumara roof trim
+150 Panel b/grnd, fire (hut/VOK torches, fireballs, blast, lava), guard tower light, Chumara roof trim
+151 Panel b/grnd, fire (hut/VOK torches, fireballs, blast, lava), guard tower light, Chumara roof trim
+152 Panel b/grnd, fire (hut/VOK torches, fireballs, blast, lava), guard tower light, Chumara roof trim
+153 Panel b/grnd, fire (hut/VOK torches, fireballs, blast, lava), guard tower light, Chumara roof trim
+154 Panel b/grnd, fire (hut/VOK torches, fireballs, blast, lava), guard tower light, Chumara roof trim
+155 Panel b/grnd, fire (hut/VOK torches, fireballs, blast, lava), guard tower light, Chumara roof trim
+156 Panel b/grnd, fire (hut/VOK torches, fireballs, blast, lava), guard tower light, Chumara roof trim
+157 Panel b/grnd, fire (hut/VOK torches, fireballs, blast, lava), guard tower light, Chumara roof trim
+158 Panel b/grnd, fire (hut/VOK torches, fireballs, blast, lava), guard tower light, Chumara roof trim
+159 Panel b/grnd, fire (hut/VOK torches, fireballs, blast, lava), guard tower light, Chumara roof trim
+160 Tree foliage, VOK, damaged land smoke, shadows,  green hut motif b/grnd, hut/boat speckling
+161 Tree foliage, VOK, damaged land smoke, shadows, green hut motif b/grnd, hut/boat speckling
+162 Tree foliage, VOK, damaged land smoke, shadows, green hut motif b/grnd, hut/boat speckling
+163 Tree foliage, VOK, damaged land smoke, shadows, green hut motif b/grnd, hut/boat speckling
+164 Tree foliage, VOK, damaged land smoke, shadows, green hut motif b/grnd, hut/boat speckling
+165 Tree foliage, VOK, damaged land smoke, shadows, green hut motif b/grnd, hut/boat speckling
+166 Tree foliage, VOK, damaged land smoke, shadows, green hut motif b/grnd, hut/boat speckling
+167 Tree foliage, VOK, damaged land smoke, shadows, green hut motif b/grnd, hut/boat speckling
+168 Tree foliage, VOK, damaged land smoke, shadows, green hut motif b/grnd, hut/boat speckling
+169 Tree foliage, VOK, damaged land smoke, shadows, green hut motif b/grnd, hut/boat speckling
+170 Tree foliage, VOK, damaged land smoke, shadows, green hut motif b/grnd, hut/boat speckling
+171 Tree foliage, VOK, damaged land smoke, shadows, green hut motif b/grnd, hut/boat speckling
+172 Hair colour, building flecks, steep land
+173 Hair colour, building flecks, steep land
+174 Hair colour, building flecks, steep land
+175 Hair colour, building flecks, steep land
+176 Clothing (all tribes & wild), blue hut motif b/grnd 
+177 Clothing (all tribes & wild), blue hut motif b/grnd
+178 Clothing (all tribes & wild), blue hut motif b/grnd
+179 Clothing (all tribes & wild), blue hut motif b/grnd 
+180 Clothing (all tribes & wild), blue hut motif b/grnd 
+181 Clothing (all tribes & wild), blue hut motif b/grnd 
+182 Clothing (all tribes & wild), blue hut motif b/grnd  
+183 Clothing (all tribes & wild), blue hut motif b/grnd 
+184 Hut/Boat/VoK/fences structure, cliff/spell highlights 
+185 Hut/Boat/VoK/fences structure, cliff/spell highlights 
+186 Hut/Boat/VoK/fences structure, cliff/spell highlights 
+187 Hut/Boat/VoK/fences structure, cliff/spell highlights
+188 Hut/Boat/VoK/fences structure, cliff/spell highlights
+189 Hut/Boat/VoK/fences structure, cliff/spell highlights
+190 Hut/Boat/VoK/fences structure, cliff/spell highlights
+191 Hut/Boat/VoK/fences structure, cliff/spell highlights
+192 Hut/Boat/VoK/fences structure, cliff/spell highlights
+193 Hut/Boat/VoK/fences structure, cliff/spell highlights
+194 Hut/Boat/VoK/fences structure, cliff/spell highlights
+195 Hut/Boat/VoK/fences structure, cliff/spell highlights
+196 Hut/Boat/VoK/fences panelling, wood piles, shoes/hair, tree trunks, cliff/panel highlights
+197 Hut/Boat/VoK/fences panelling, wood piles, shoes/hair, tree trunks, cliff/panel highlights
+198 Hut/Boat/VoK/fences panelling, wood piles, shoes/hair, tree trunks, cliff/panel highlights
+199 Hut/Boat/VoK/fences panelling, wood piles, shoes/hair, tree trunks, cliff/panel highlights
+200 Hut/Boat/VoK/fences panelling, wood piles, shoes/hair, tree trunks, cliff/panel highlights
+201 Hut/Boat/VoK/fences panelling, wood piles, shoes/hair, tree trunks, cliff/panel highlights
+202 Hut/Boat/VoK/fences panelling, wood piles, shoes/hair, tree trunks, cliff/panel highlights
+203 Hut/Boat/VoK/fences panelling, wood piles, shoes/hair, tree trunks, cliff/Panel highlights
+204 Hut/Boat/VoK/fences panelling, wood piles, shoes/hair, tree trunks, cliff/panel highlights
+205 Hut/Boat/VoK/fences panelling, wood piles, shoes/hair, tree trunks, cliff/panel highlights
+206 Hut/Boat/VoK/fences panelling, wood piles, shoes/hair, tree trunks, cliff/panel highlights
+207 Hut/Boat/VoK/fences panelling, wood piles, shoes/hair, tree trunks, cliff/panel highlights
+208 Shaman's casting effect, AOD back & wings, panel ?/spells/huts 
+209 Shaman's casting effect, AOD back & wings, panel ?/spells/huts
+210 Shaman's casting effect, AOD back & wings, panel ?/spells/huts
+211 Shaman's casting effect, AOD back & wings, panel ?/spells/huts
+212 Shaman's casting effect, AOD back & wings, panel ?/spells/huts
+213 Shaman's casting effect, AOD back & wings, panel ?/spells/huts
+214 Shaman's casting effect, AOD back & wings, panel ?/spells/huts
+215 Shaman's casting effect, AOD back & wings, panel ?/spells/huts
+216 Blue tribe colours
+217 Blue tribe colours
+218 Blue tribe colours  
+219 Blue tribe colours  
+220 Blue tribe colours  
+221 Blue tribe colours  
+222 Blue tribe colours  
+223 Blue tribe colours
+224 Green (Matak) tribe colours
+225 Green (Matak) tribe colours
+226 Green (Matak) tribe colours
+227 Green (Matak) tribe colours
+228 Green (Matak) tribe colours
+229 Green (Matak) tribe colours
+230 Green (Matak) tribe colours
+231 Green (Matak) tribe colours
+232 Yellow (Chumara) tribe colours
+233 Yellow (Chumara) tribe colours
+234 Yellow (Chumara) tribe colours
+235 Yellow (Chumara) tribe colours
+236 Yellow (Chumara) tribe colours
+237 Yellow (Chumara) tribe colours
+238 Yellow (Chumara) tribe colours
+239 Yellow (Chumara) tribe colours
+240 Red (Dakini) tribe colours
+241 Red (Dakini) tribe colours
+242 Red (Dakini) tribe colours
+243 Red (Dakini) tribe colours
+244 Red (Dakini) tribe colours
+245 Red (Dakini) tribe colours
+246 Red (Dakini) tribe colours
+247 Red (Dakini) tribe colours
+248 Flesh, building flecks, panel spell shading
+249 Flesh, building flecks, panel spell shading
+250 Flesh, building flecks, panel spell shading
+251 Flesh, building flecks, panel spell shading
+252 Flesh, building flecks, panel spell shading
+253 Flesh, building flecks, panel spell shading
+254 Not used
+255 Not used
